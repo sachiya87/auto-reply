@@ -1,9 +1,7 @@
 {
- "massage" : ["nima",
-              "sachi",
+ "massage" : ["sachi",
               "mk"],
- "reply_massage" : ["who is call my owner.",
-                    "Who is call me",
+ "reply_massage" : ["Who is call me",
                     "mn",
                     "mn"]
 }
